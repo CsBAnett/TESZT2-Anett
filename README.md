@@ -7,4 +7,5 @@
 #
 # BÉRGYILKOS
 # HAHA
+# Ezt a visuálból írom :D
 
